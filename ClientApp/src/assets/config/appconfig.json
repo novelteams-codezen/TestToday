@@ -1,0 +1,24 @@
+{
+    "environment": {
+        "name": "Local",
+        "production": false
+    },
+    "appInsights": {
+        "instrumentationKey": ""
+    },
+    "logging": {
+        "console": true,
+        "appInsights": false
+    },
+    "api": {
+        "url": "https://codezenapi.azurewebsites.net"
+    },
+    "app": {
+        "title": "TestToday"
+    },
+    "buildInfo": {
+        "number": "1.0.0.0",
+        "createdOn": "Tuesday, September 24, 2024 7:14:48 AM"
+    },
+    "environments": []
+}
